@@ -24,7 +24,7 @@ This extension is developed and tested fully on Visual Studio code 1.96.4 platfo
 3. Search "Tag Manager".
 4. Click Install button.
 ### Manually
-1. Download Tag-Manager-1.0.0.vsix
+1. Download tag-manager-1.0.0.vsix
 2. Open Extensions View (Ctrl+Shift+X).
 3. Click `...` on top-right side, choose `install from vsix`
 
