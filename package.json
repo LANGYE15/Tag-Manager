@@ -2,13 +2,14 @@
   "name": "tag-manager",
   "displayName": "Tag-Manager",
   "description": "manage your log-tag, basically for regex with name and description",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "YiZhong",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/LANGYE15/Tag-Manager.git"
   },
+  "icon": "media/icon.png",
   "engines": {
     "vscode": "^1.96.0"
   },
